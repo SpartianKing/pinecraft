@@ -56,19 +56,19 @@ Download Ubuntu Server 21.10 64-Bit here: https://cdimage.ubuntu.com/releases/21
 Server Versions
 ===============
 
-**Fabric** Supports Plugins / Fast Build Time
+**Fabric** Supports Fabric Mods / Fast Build Time
 
 A lightweight, modular Minecraft server. [More Info](https://fabricmc.net/)
 
 Note: Most Fabric mods will also require you install the Fabric API, which must be downloaded manually and placed in the `~/minecraft/mods` folder. Get the Fabric API here: https://www.curseforge.com/minecraft/mc-mods/fabric-api
 
 
-**Paper** Supports Plugins / Fast Build Time
+**Paper** Supports plugins / Fast Build Time
 
 A performance-optimized Minecraft server based on Spigot and compatible with Spigot plugins. [More Info](https://papermc.io/)
 
 
-**Forge** Supports Plugins / Fast Build Time
+**Forge** Supports Forge mods / Fast Build Time
 
 Yet another modular Minecraft server. [More Info](https://files.minecraftforge.net/net/minecraftforge/forge/)
 
