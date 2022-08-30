@@ -551,11 +551,11 @@ if [[ $? == 0 ]]; then
       # https://papermc.io/downloads
       flavor="Paper"
       if [[ $mcver == "1.19.2" ]]; then
-        url="https://api.papermc.io/v2/projects/paper/versions/1.19.2/builds/130/downloads/paper-1.19.2-130.jar"
+        url="https://api.papermc.io/v2/projects/paper/versions/1.19.2/builds/135/downloads/paper-1.19.2-135.jar"
       elif [[ $mcver == "1.19" ]]; then
         url="https://api.papermc.io/v2/projects/paper/versions/1.19/builds/81/downloads/paper-1.19-81.jar"
       elif [[ $mcver == "1.18.2" ]]; then
-        url="https://api.papermc.io/v2/projects/paper/versions/1.18.2/builds/375/downloads/paper-1.18.2-375.jar"
+        url="https://api.papermc.io/v2/projects/paper/versions/1.18.2/builds/387/downloads/paper-1.18.2-387.jar"
       elif [[ $mcver == "1.18.1" ]]; then
         url="https://papermc.io/api/v2/projects/paper/versions/1.18.1/builds/214/downloads/paper-1.18.1-214.jar"
       elif [[ $mcver == "1.18" ]]; then
